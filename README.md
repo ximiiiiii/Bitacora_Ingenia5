@@ -86,6 +86,6 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 ## Fuentes y respaldo documental
 
 - Ficha oficial *"Desafío 01 Edificios Inteligentes: Caracterización de usuarios del Hub Providencia"*, Proyecto Capstone Intermedio.
-- Material de clases de Proyecto Capstone Intermedio (Clases 1–4).
+- Material de clases de Proyecto Capstone Intermedio (Clases 1–6).
 - Información institucional oficial de la Municipalidad de Providencia y Hub Providencia.
 - Evidencias generadas por el equipo Ingenia 5 (fotografías, mapas, tablas de análisis, registros del pitch).
