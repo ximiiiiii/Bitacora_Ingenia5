@@ -8,12 +8,6 @@ Durante esta jornada, el equipo preparó una presentación en PowerPoint para ex
 
 El objetivo fue ordenar la investigación de referentes tecnológicos, comparar sus características e identificar oportunidades de innovación adaptadas a la realidad del Hub Providencia. La presentación se organizó en torno al problema observado, los referentes, los atributos de evaluación, los hallazgos y las alternativas conceptuales.
 
-### Presentación de la clase 08/10/2026
-
-Como evidencia de las actividades desarrolladas, se adjunta la presentación elaborada por el equipo Ingenia 5, correspondiente a la fase Idear y Conceptualizar del proyecto Hub Providencia.
-
-📄 **[Ver presentación completa en PDF](./2026-10-08-presentacion-capstone.pdf)**
-
 ---
 
 
