@@ -33,7 +33,9 @@ La presentación de ocho diapositivas incluye:
 7. Lluvia de ideas y concepto con mayor potencial.
 8. Conclusiones y próximos pasos.
 
-**Respaldo utilizado para esta bitácora:** archivo proporcionado por el equipo, `Presentacion capstone 08102026 (1).pdf`. El archivo de presentación no se ha incorporado como adjunto al repositorio en esta actualización.
+**Presentación de la sesión (PDF):** [Ver presentación del 08/10/2026](./Presentacion%20capstone%2008-10-2026.pdf). Este enlace permitirá visualizar el PDF desde GitHub una vez que el archivo se suba a esta misma carpeta `sesiones` con el nombre `Presentacion capstone 08-10-2026.pdf`.
+
+> **Estado del respaldo:** enlace preparado; el archivo PDF aún está pendiente de subirse a GitHub.
 
 ### Próximos pasos
 
