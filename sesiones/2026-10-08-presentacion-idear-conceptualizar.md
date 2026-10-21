@@ -33,9 +33,12 @@ La presentación de ocho diapositivas incluye:
 7. Lluvia de ideas y concepto con mayor potencial.
 8. Conclusiones y próximos pasos.
 
-**Presentación de la sesión (PDF):** [Ver presentación del 08/10/2026](./Presentacion%20capstone%2008-10-2026.pdf). Este enlace permitirá visualizar el PDF desde GitHub una vez que el archivo se suba a esta misma carpeta `sesiones` con el nombre `Presentacion capstone 08-10-2026.pdf`.
+**Presentación del 08/10/2026 (PDF, 8 diapositivas):**
 
-> **Estado del respaldo:** enlace preparado; el archivo PDF aún está pendiente de subirse a GitHub.
+- 📄 **[Abrir la presentación directamente en el navegador](https://raw.githubusercontent.com/ximiiiiii/Bitacora_Ingenia5/main/sesiones/Presentacion%20capstone%2008-10-2026.pdf)**
+- [Ver el archivo en GitHub](./Presentacion%20capstone%2008-10-2026.pdf) (si la vista previa de GitHub falla, utilizar el enlace anterior).
+
+El PDF original se encuentra guardado en la carpeta `sesiones`, junto con esta entrada de la bitácora.
 
 ### Próximos pasos
 
