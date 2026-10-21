@@ -33,22 +33,6 @@ La presentación de ocho diapositivas incluye:
 7. Lluvia de ideas y concepto con mayor potencial.
 8. Conclusiones y próximos pasos.
 
-**Visualización de la presentación dentro de esta bitácora (8 diapositivas):**
-
-![Presentación completa Idear y Conceptualizar, sesión 08/10/2026](./Presentacion_08-10-2026_Vista_GitHub.jpg)
-
-> **Nota:** la imagen de las diapositivas estará visible aquí cuando se cargue el archivo `Presentacion_08-10-2026_Vista_GitHub.jpg` en esta misma carpeta `sesiones`.
-
-**Presentación del 08/10/2026 (PDF, 8 diapositivas):**
-
-- 📄 **[Abrir la presentación directamente en el navegador](https://raw.githubusercontent.com/ximiiiiii/Bitacora_Ingenia5/main/sesiones/Presentacion%20capstone%2008-10-2026.pdf)**
-- [Ver el archivo en GitHub](./Presentacion%20capstone%2008-10-2026.pdf) (si la vista previa de GitHub falla, utilizar el enlace anterior).
-
-El PDF original se encuentra guardado en la carpeta `sesiones`, junto con esta entrada de la bitácora.
-
-### Próximos pasos
-
-Definir y priorizar los requerimientos del sistema, comparar las alternativas conceptuales con criterios objetivos y seleccionar la opción más adecuada para avanzar a **conceptualización y prototipado**.
 
 ### Cierre de la sesión 08/10/2026
 
