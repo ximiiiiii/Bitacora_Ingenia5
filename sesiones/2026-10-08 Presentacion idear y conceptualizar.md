@@ -12,7 +12,7 @@ El objetivo fue ordenar la investigación de referentes tecnológicos, comparar 
 
 Como evidencia de las actividades desarrolladas, se adjunta la presentación elaborada por el equipo Ingenia 5, correspondiente a la fase Idear y Conceptualizar del proyecto Hub Providencia.
 
-📄 **[Ver presentación completa en PDF](./Presentaci%C3%B3n%20final%2010-08-2026.pdf)**
+📄 **[Ver presentación completa en PDF](./2026-10-08-presentacion-capstone.pdf)**
 
 ---
 
