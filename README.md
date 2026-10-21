@@ -45,12 +45,13 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 
 | Fecha | Sesión | Resumen |
 | --- | --- | --- |
-| 20-08-2026 | [Constitución del equipo](./sesiones/2026-08-20-constitucion-equipo.md) | Contrato de equipo, valores, normas, roles y objetivo SMART. |
-| 31-08-2026 | [Comprensión del desafío](./sesiones/2026-08-31-comprension-desafio.md) | Mapa conceptual, mapa de empatía, evidencia vs. supuesto, preguntas abiertas. |
-| 10-09-2026 | [Hito 1 — ¿Dónde estamos?](./sesiones/2026-09-10-hito1-pitch.md) | Ficha de desafío, guion de pitch, 15 antecedentes respaldados y delimitación del problema. |
-| 24-09-2026 | [Salida educacional a Hub Providencia](./sesiones/2026-09-24-salida-educacional.md) | Charla, recorrido y levantamiento en terreno: 12 preguntas respondidas, hallazgos, indicadores y problema actualizado. |
-| 01-10-2026 | [Idear y conceptualizar](./sesiones/2026-10-01-idear-conceptualizar.md) | Estado del Arte (5 soluciones), matriz de atributos, Benchmark y segunda lluvia de ideas (6 propuestas conceptuales). |
-| 08-10-2026 | [Presentación: Idear y conceptualizar](./sesiones/2026-10-08-presentacion-idear-conceptualizar.md) | Preparación de PPT y exposición de las cuatro actividades, comparación de soluciones, hallazgos y seis propuestas conceptuales. |
+| 20-08-2026 | [Constitución del equipo](./sesiones/2026-08-20%20Constitucion%20equipo.md) | Contrato de equipo, valores, normas, roles y objetivo SMART. |
+| 31-08-2026 | [Comprensión del desafío](./sesiones/2026-08-31%20Comprension%20del%20desafio.md) | Mapa conceptual, mapa de empatía, evidencia vs. supuesto, preguntas abiertas. |
+| 10-09-2026 | [Hito 1 — ¿Dónde estamos?](./sesiones/2026-09-10%20hito1%20pitch.md) | Ficha de desafío, guion de pitch, 15 antecedentes respaldados y delimitación del problema. |
+| 24-09-2026 | [Salida educacional a Hub Providencia](./sesiones/2026-09-24%20Salida%20educacional.md) | Charla, recorrido y levantamiento en terreno: 12 preguntas respondidas, hallazgos, indicadores y problema actualizado. |
+| 01-10-2026 | [Idear y conceptualizar](./sesiones/2026-10-01%20idear%20conceptualizar.md) | Estado del Arte (5 soluciones), matriz de atributos, Benchmark y segunda lluvia de ideas (6 propuestas conceptuales). |
+| 08-10-2026 | [Presentación: Idear y conceptualizar](./sesiones/2026-10-08%20Presentacion%20idear%20y%20conceptualizar.md) | Preparación de PPT y exposición de las cuatro actividades, comparación de soluciones, hallazgos y seis propuestas conceptuales. |
+| 15-10-2026 | [Desarrollo de la propuesta Hub Conecta](./sesiones/2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md) | Propuesta seleccionada: QR reutilizable, autoatención con apoyo, diseño técnico, piloto, factibilidad, ética y riesgos. |
 
 ---
 
@@ -58,11 +59,11 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 
 **Qué se propuso el equipo:** comprender y delimitar el desafío de caracterización de usuarios del Hub Providencia, evitando asumir que la solución ya estaba definida, y luego validar esa comprensión directamente en terreno.
 
-**Qué se hizo:** se constituyó formalmente Ingenia 5; se definieron normas, roles y compromisos; se analizó la ficha del desafío; se construyeron un mapa conceptual y un mapa de empatía; se separó evidencia de supuestos; se prepararon el Hito 1 y su pitch; se realizó una salida educacional a Hub Providencia con charla, preguntas dirigidas y recorrido; y se desarrolló un Estado del Arte con Benchmark y una segunda lluvia de ideas.
+**Qué se hizo:** se constituyó formalmente Ingenia 5; se definieron normas, roles y compromisos; se analizó la ficha del desafío; se construyeron un mapa conceptual y un mapa de empatía; se separó evidencia de supuestos; se prepararon el Hito 1 y su pitch; se realizó una salida educacional a Hub Providencia con charla, preguntas dirigidas y recorrido; se desarrolló un Estado del Arte con Benchmark y una segunda lluvia de ideas; y se seleccionó y desarrolló la propuesta Hub Conecta, con su modelo de uso, diseño técnico y planificación del piloto.
 
 **Qué se aprendió o cambió:** el desafío entregado no equivale automáticamente a una definición validada del problema — eso se confirmó en terreno. El Hub **sí** cuenta con un registro digital (formulario + QR + Google Sheets); el problema real no es la ausencia de datos, sino la falta de integración para reconocer usuarios recurrentes, consolidar su historial y generar indicadores de gestión. El Estado del Arte mostró además que ninguna solución existente resuelve todo el problema de forma simple y adaptada al contexto municipal, lo que abre espacio a una propuesta propia que combine funciones ya probadas en otras herramientas.
 
-**Qué debe hacerse después:** definir y priorizar requerimientos a partir de las seis propuestas conceptuales, compararlas con criterios objetivos y seleccionar una alternativa para avanzar a conceptualización y prototipado.
+**Qué debe hacerse después:** construir y verificar el prototipo Hub Conecta, precisar los requerimientos con el Hub, ajustar las estimaciones económicas y coordinar una eventual prueba en terreno. La autorización del piloto y el calendario definitivo siguen pendientes; no se presentan resultados de pruebas como realizados.
 
 ---
 
@@ -80,8 +81,11 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 - [x] Registro cronológico y continuidad del trabajo
 - [x] Decisiones, aprendizajes e iteraciones
 - [x] Síntesis crítica de avance
-- [ ] Definición y priorización de requerimientos (próxima etapa)
-- [ ] Selección de solución y prototipado
+- [x] Selección y desarrollo de la propuesta Hub Conecta (15/10)
+- [x] Requerimientos preliminares y planificación de evaluación
+- [ ] Validación y priorización de requerimientos con el Hub
+- [ ] Construcción y pruebas del prototipo
+- [ ] Autorización y coordinación de piloto en terreno
 
 ---
 
