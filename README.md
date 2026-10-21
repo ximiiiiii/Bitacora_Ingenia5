@@ -50,6 +50,7 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 | 10-09-2026 | [Hito 1 — ¿Dónde estamos?](./sesiones/2026-09-10-hito1-pitch.md) | Ficha de desafío, guion de pitch, 15 antecedentes respaldados y delimitación del problema. |
 | 24-09-2026 | [Salida educacional a Hub Providencia](./sesiones/2026-09-24-salida-educacional.md) | Charla, recorrido y levantamiento en terreno: 12 preguntas respondidas, hallazgos, indicadores y problema actualizado. |
 | 01-10-2026 | [Idear y conceptualizar](./sesiones/2026-10-01-idear-conceptualizar.md) | Estado del Arte (5 soluciones), matriz de atributos, Benchmark y segunda lluvia de ideas (6 propuestas conceptuales). |
+| 08-10-2026 | [Presentación: Idear y conceptualizar](./sesiones/2026-10-08-presentacion-idear-conceptualizar.md) | Preparación de PPT y exposición de las cuatro actividades, comparación de soluciones, hallazgos y seis propuestas conceptuales. |
 
 ---
 
@@ -75,6 +76,7 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 - [x] Actividad Clase 10/09 — ¿Dónde estamos?
 - [x] Salida educacional y levantamiento en terreno (24/09)
 - [x] Estado del Arte, matriz de atributos y Benchmark (01/10)
+- [x] Presentación de las cuatro actividades de ideación (08/10)
 - [x] Registro cronológico y continuidad del trabajo
 - [x] Decisiones, aprendizajes e iteraciones
 - [x] Síntesis crítica de avance
