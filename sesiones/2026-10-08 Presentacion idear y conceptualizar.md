@@ -10,7 +10,11 @@ El objetivo fue ordenar la investigación de referentes tecnológicos, comparar 
 
 ### Presentación de la clase 08/10/2026
 
-📄 [Ver presentación completa en PDF](./Presentación%20final%2010-08-2026.pdf)
+Como evidencia de las actividades desarrolladas, se adjunta la presentación elaborada por el equipo Ingenia 5, correspondiente a la fase Idear y Conceptualizar del proyecto Hub Providencia.
+
+📄 **[Ver presentación completa en PDF](./Presentaci%C3%B3n%20final%2010-08-2026.pdf)**
+
+---
 
 
 ### Hallazgos y aprendizajes de la jornada
