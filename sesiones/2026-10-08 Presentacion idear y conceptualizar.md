@@ -8,6 +8,10 @@ Durante esta jornada, el equipo preparó una presentación en PowerPoint para ex
 
 El objetivo fue ordenar la investigación de referentes tecnológicos, comparar sus características e identificar oportunidades de innovación adaptadas a la realidad del Hub Providencia. La presentación se organizó en torno al problema observado, los referentes, los atributos de evaluación, los hallazgos y las alternativas conceptuales.
 
+### Presentación de la clase 08/10/2026
+
+📄 [Ver presentación completa en PDF](./Presentación%20final%2010-08-2026.pdf)
+
 
 ### Hallazgos y aprendizajes de la jornada
 
