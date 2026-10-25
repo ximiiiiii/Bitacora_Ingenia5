@@ -1,5 +1,7 @@
 # Sesión — 15 de octubre de 2026
 
+> **Antecedente histórico:** esta entrada conserva el diseño propuesto el 15/10/2026. El equipo lo actualizó posteriormente: cuenta por usuario, QR por reserva confirmado y leído por personal, registro de visitas espontáneas y exportación Excel. Consulte la [versión vigente del 25/10/2026](./2026-10-25%20Actualizacion%20Hub%20Conecta%20reservas.md). Los flujos y costos de esta entrada no son la especificación actual.
+
 ## Desarrollo de la propuesta seleccionada
 
 **Proyecto:** Desafío 01 — Caracterización de usuarios del Hub Providencia.  
