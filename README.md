@@ -51,8 +51,8 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 | 24-09-2026 | [Salida educacional a Hub Providencia](./sesiones/2026-09-24%20Salida%20educacional.md) | Charla, recorrido y levantamiento en terreno: 12 preguntas respondidas, hallazgos, indicadores y problema actualizado. |
 | 01-10-2026 | [Idear y conceptualizar](./sesiones/2026-10-01%20idear%20conceptualizar.md) | Estado del Arte (5 soluciones), matriz de atributos, Benchmark y segunda lluvia de ideas (6 propuestas conceptuales). |
 | 08-10-2026 | [Presentación: Idear y conceptualizar](./sesiones/2026-10-08%20Presentacion%20idear%20y%20conceptualizar.md) | Preparación de PPT y exposición de las cuatro actividades, comparación de soluciones, hallazgos y seis propuestas conceptuales. |
-| 15-10-2026 | [Desarrollo de la propuesta Hub Conecta](./sesiones/2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md) | Antecedente histórico: QR personal y autoatención. Sustituido por la actualización del 25/10. |
-| 25-10-2026 | [Actualización de Hub Conecta: cuentas, reservas y asistencia](./sesiones/2026-10-25%20Actualizacion%20Hub%20Conecta%20reservas.md) | QR por reserva leído por el personal, visitas espontáneas según reglas y disponibilidad, panel y exportación Excel; ficha y costos revisados. |
+| 15-10-2026 | [Desarrollo de la propuesta Hub Conecta](./sesiones/2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md) | Desarrollo de Hub Conecta, actualizado el 25/10: cuentas, reservas con QR único, validación por personal, panel administrativo y exportación a Excel. |
+| 25-10-2026 | [Actualización del diseño en la entrada del 15/10](./sesiones/2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md) | Actualización documental de la sesión del 15/10; incluye decisiones técnicas y revisión del alcance, indicadores y costos. |
 
 ---
 
@@ -62,7 +62,7 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 
 **Qué se hizo:** se constituyó formalmente Ingenia 5; se definieron normas, roles y compromisos; se analizó la ficha del desafío; se construyeron un mapa conceptual y un mapa de empatía; se separó evidencia de supuestos; se prepararon el Hito 1 y su pitch; se realizó una salida educacional a Hub Providencia con charla, preguntas dirigidas y recorrido; se desarrolló un Estado del Arte con Benchmark y una segunda lluvia de ideas; y se seleccionó y desarrolló la propuesta Hub Conecta, con su modelo de uso, diseño técnico y planificación del piloto.
 
-**Qué se aprendió o cambió:** el Hub ya cuenta con registros; la brecha de integración sigue orientando el proyecto. El 25/10 el equipo evolucionó de QR personal y autoatención a cuentas de usuario, reservas con QR específico y lectura por personal. Las reservas aparecen desde su creación y la asistencia se confirma por separado. El panel permite exportar Excel. El cowork general conserva su acceso sin reserva; otros recursos se habilitarán según respaldo oficial y confirmación del Hub. No se afirma que el Estado del Arte demuestre ausencia de soluciones equivalentes: la propuesta se justifica por su adaptación y alcance de prototipo.
+**Qué se aprendió o cambió:** el Hub ya cuenta con registros; la brecha de integración sigue orientando el proyecto. El 25/10 el equipo evolucionó de QR personal y autoatención a cuentas de usuario, reservas con QR específico y lectura por personal. Las reservas aparecen desde su creación y la asistencia se confirma por separado. El diseño contempla un panel con exportación a Excel; su implementación y pruebas siguen pendientes. El cowork general conserva su acceso sin reserva; otros recursos se habilitarán según respaldo oficial y confirmación del Hub. No se afirma que el Estado del Arte demuestre ausencia de soluciones equivalentes: la propuesta se justifica por su adaptación y alcance de prototipo.
 
 **Qué debe hacerse después:** validar catálogo, reglas y requisitos con el Hub; construir cuentas, disponibilidad, reservas, validación y Excel; ejecutar pruebas y ajustar costos. Preparar pitch e informe de avance para el 27/10 según Clase 10, mostrando solo funciones efectivamente desarrolladas. La autorización del piloto y las condiciones de implementación permanecen pendientes; no hay resultados de pruebas en terreno confirmados.
 
@@ -98,4 +98,4 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 - Información institucional oficial de la Municipalidad de Providencia y Hub Providencia.
 - Evidencias generadas por el equipo Ingenia 5 (fotografías, mapas, tablas de análisis, registros del pitch).
 
-**Versión vigente:** [Hub Conecta — actualización del 25/10/2026](./sesiones/2026-10-25%20Actualizacion%20Hub%20Conecta%20reservas.md). Las entradas previas conservan la evolución histórica del proyecto.
+**Versión vigente (entrada del 15/10 actualizada el 25/10):** [Hub Conecta — actualización del 25/10/2026](./sesiones/2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md). La actualización del 25/10 está incorporada en esa entrada; las sesiones anteriores conservan las etapas previas del proyecto.
