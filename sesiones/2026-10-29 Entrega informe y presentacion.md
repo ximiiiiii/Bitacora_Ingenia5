@@ -6,7 +6,7 @@
 **Actividad prevista:** entrega del informe de avance y presentación de su contenido.  
 **Registro preparado el:** 25 de octubre de 2026.
 
-> **Estado:** el informe de avance está redactado y fue revisado por el equipo. La entrega y la exposición están programadas para el 29/10/2026, según la planificación comunicada por el equipo; todavía no se registran como realizadas. La presentación breve en PowerPoint se preparará posteriormente y se incorporará como evidencia cuando esté disponible.
+> **Estado:** el informe de avance está redactado y fue revisado por el equipo. La entrega y la exposición están programadas para el 29/10/2026, según la planificación comunicada por el equipo; todavía no se registran como realizadas. La presentación breve fue preparada en Canva y se incorpora en PDF como evidencia de preparación; la exposición oral continúa programada.
 
 ---
 
@@ -60,20 +60,35 @@ Las reservas se limitarán a los recursos que efectivamente las requieran, de ac
 - La autorización y las condiciones de una prueba en el Hub todavía deberán coordinarse.
 - La ausencia de validación de un QR no se interpretará automáticamente como inasistencia comprobada.
 
-### 5. Preparación de la presentación breve
+### 5. Preparación grupal de la presentación — 29/10/2026
 
-El PowerPoint se elaborará posteriormente a partir del informe. Se propone organizar el relato en torno a:
+Como preparación para la actividad programada, se organizó una presentación de nueve diapositivas a partir del informe de avance. Se seleccionaron las ideas principales para explicar el problema, el funcionamiento de Hub Conecta, su operación, las tecnologías, las metas de evaluación, los costos preliminares y la planificación de noviembre.
 
-1. Problema y evidencia.
-2. Propuesta seleccionada y valor esperado.
-3. Recorrido de una reserva y validación por el personal.
-4. Panel administrativo, indicadores y exportación Excel.
-5. Alcance del prototipo y plan de pruebas.
-6. Trabajo de noviembre y decisiones pendientes.
+La preparación incluyó la síntesis del contenido, la elaboración de apoyos visuales tipo caricatura y la revisión de coherencia entre el informe, las diapositivas y el guion. Las ilustraciones representan el funcionamiento propuesto y no evidencian un sistema ya implementado.
 
-Esta organización es orientativa y se ajustará al tiempo de exposición y a las instrucciones de la profesora. Se utilizarán los diagramas y antecedentes del informe, distinguiendo diseños o maquetas de funciones efectivamente implementadas.
+#### Organización del trabajo y del relato
 
-**Estado del PowerPoint:** pendiente de elaboración. No se incorpora todavía un enlace a un archivo inexistente.
+Se preparó un guion breve, con partes complementarias para evitar repeticiones. La distribución prevista para la exposición es:
+
+| Integrante | Diapositivas | Contenido asignado en el guion |
+| --- | --- | --- |
+| Xiomara Quiroz | 1 y 2 | Presentación del proyecto, problema y necesidad. |
+| Michelle Jara | 3 y 4 | Cuenta, reserva, QR, asistencia y panel administrativo. |
+| Juan Millapán | 5 | Tecnologías, dispositivos, cancelaciones, permisos y operación. |
+| Felipe Cornejo | 6 y 7 | Prueba controlada, metas de evaluación y costos preliminares. |
+| Joaquín Aguilera | 8 y 9 | Plan de noviembre, condiciones para avanzar y cierre. |
+
+Esta distribución corresponde al guion preparado; no acredita todavía la participación efectiva en la exposición ni asigna autoría individual del diseño de las diapositivas. El ensayo y la coordinación de transiciones quedan como tareas previas a la jornada.
+
+#### Presentación preparada en PDF
+
+[📄 Ver la presentación de Hub Conecta en GitHub](./Presentacion_Hub_Conecta_2026-10-29.pdf)
+
+[✏️ Abrir la versión editable en Canva](https://www.canva.com/design/DAHZDsx3Hr8/Id07IA-m3RnLKh6B403nTw/edit)
+
+El PDF contiene nueve diapositivas y se publica en una copia optimizada para facilitar su visualización. Se distinguen las metas pendientes de prueba de los resultados obtenidos, así como el trabajo valorizado de los desembolsos estimados.
+
+**Estado:** material visual y guion preparados. Entrega, exposición y retroalimentación docente pendientes de confirmación.
 
 ### 6. Evidencias y seguimiento
 
@@ -81,13 +96,13 @@ Esta organización es orientativa y se ajustará al tiempo de exposición y a la
 | --- | --- |
 | Informe de avance | Redactado y revisado; documento de referencia identificado. |
 | Entrada de bitácora | Preparada como planificación de la actividad del 29/10. |
-| PowerPoint breve | Pendiente de elaboración e incorporación. |
+| Presentación breve | Preparada en Canva; PDF incorporado y guion distribuido entre cinco integrantes. |
 | Entrega del informe | Programada; confirmación pendiente. |
 | Presentación oral | Programada; realización pendiente. |
 | Retroalimentación docente | Se registrará después de recibirla. |
 | Pruebas del prototipo | No se presentan resultados como ejecutados. |
 
-Después de la jornada se actualizarán la confirmación de entrega, la presentación utilizada, las observaciones de la profesora, los acuerdos y las tareas resultantes.
+Después de la jornada se actualizarán la confirmación de entrega, la confirmación de la versión presentada, las observaciones de la profesora, los acuerdos y las tareas resultantes.
 
 ### 7. Continuidad hacia la Unidad 3
 
