@@ -1,4 +1,4 @@
-# Actualización de la propuesta — 25 de octubre de 2026
+# Desarrollo de la propuesta — 15 de octubre de 2026
 
 ## Hub Conecta — cuentas, reservas y asistencia
 
