@@ -60,7 +60,9 @@ Para ampliar la búsqueda se consideraron soluciones directas, parciales e indir
 | Analítico / visualizable | Parcial | Sí | Sí | Sí | Parcial |
 | Espacial | Parcial | Parcial | Sí | Sí | No |
 
-**¿Qué atributos NO están resueltos por ninguna solución?** No se identifica un atributo completamente ausente, pero ninguna alternativa integra de forma simple y adaptada al Hub: identificación recurrente, registro de visita, caracterización del perfil, utilización de espacios, baja fricción e información analítica, todo al mismo tiempo. La principal brecha está en la integración.
+**¿Qué atributos NO están resueltos por ninguna solución?** No se identifica un atributo completamente ausente de todas las soluciones. La matriz muestra que algunas alternativas cubren los atributos evaluados; OfficeRnD Flex figura con cobertura directa de los cinco. La oportunidad del proyecto consiste en adaptar las funciones al contexto, los recursos y las necesidades del Hub Providencia. Esta comparación no demuestra que no existan soluciones equivalentes ni que la propuesta propia sea superior; la adecuación, simplicidad y costo deben evaluarse con requerimientos específicos.
+
+*Precisión metodológica incorporada el 25/10/2026: se conserva la matriz de la etapa de ideación y se ajusta el alcance de su conclusión para evitar afirmar una brecha que la evaluación no demuestra.*
 
 **¿Qué atributo parecería más relevante?** La identificación recurrente de baja fricción, ya que el desafío exige evitar solicitar todos los datos en cada visita. Debe complementarse con trazabilidad, para que reconocer a una persona permita además analizar frecuencia y patrones de uso.
 
