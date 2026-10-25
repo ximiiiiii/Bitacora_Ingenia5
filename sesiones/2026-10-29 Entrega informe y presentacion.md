@@ -14,7 +14,7 @@
 
 Comunicar el avance del proyecto Hub Conecta mediante un informe escrito y una presentación breve, explicando el problema abordado, la solución seleccionada, su funcionamiento, los recursos necesarios y la planificación de construcción y evaluación durante la Unidad 3.
 
-La actividad consolida el trabajo de comprensión del problema, Estado del Arte, Benchmark, comparación de alternativas y desarrollo de la propuesta. No corresponde todavía a la presentación de una solución implementada o validada en el Hub.
+La actividad consolida el trabajo de comprensión del problema, Estado del Arte, Benchmark, comparación de alternativas, selección cualitativa documentada y desarrollo de la propuesta. No corresponde todavía a la presentación de una solución implementada o validada en el Hub.
 
 ### 2. Documento preparado
 
@@ -27,7 +27,7 @@ Aunque el archivo conserva apartados para el informe final, su estado actual es 
 | Apartado | Contenido del informe de avance |
 | --- | --- |
 | Problema y necesidad | Repetición del registro y dificultad para vincular perfiles, reservas y asistencia. Evidencia consignada en la visita al Hub. |
-| Descripción de la propuesta | Cuenta por usuario, QR único por reserva confirmada y lectura por el personal. Justificación de la elección frente a otros mecanismos. |
+| Descripción de la propuesta | Cuenta por usuario, QR único por reserva confirmada y lectura por el personal. La entrada del 15/10 actualizada el 25/10 documenta el puente de selección desde las seis alternativas conceptuales hacia Hub Conecta. |
 | Uso e implementación | Personas usuarias, recepción, administración y responsables técnicos; cancelaciones, excepciones y visitas espontáneas admisibles. |
 | Diseño técnico | Aplicación web con Python y FastAPI; interfaz HTML, CSS y JavaScript; SQLite con SQLAlchemy; cámara de dispositivos compatibles y exportación Excel. |
 | Prototipo y evaluación | Alcance acotado, exclusiones, condiciones de prueba, criterios de aceptación e instrumentos de observación y encuesta. |
@@ -110,7 +110,7 @@ Se mantendrá trazabilidad entre requisitos, casos de prueba, resultados y ajust
 
 La actividad se registra para el **29/10/2026**, fecha indicada por el equipo para la entrega y presentación.
 
-**Respaldo:** informe de avance adjuntado por el equipo; plantilla del curso; Clase 10; [propuesta vigente de Hub Conecta](./2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md), actualizada el 25/10; y [Estado del Arte y Benchmark](./2026-10-01%20idear%20conceptualizar.md).
+**Respaldo:** informe de avance preparado por el equipo; plantilla del curso; Clase 10; [propuesta vigente de Hub Conecta](./2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md), actualizada el 25/10 con la selección cualitativa; [Estado del Arte y Benchmark](./2026-10-01%20idear%20conceptualizar.md); y [presentación de ideación del 08/10](./2026-10-08%20Presentacion%20idear%20y%20conceptualizar.md), que conserva la evidencia histórica y registra la precisión metodológica posterior.
 
 ---
 
