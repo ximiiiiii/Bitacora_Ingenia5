@@ -89,7 +89,7 @@ Diseñar una solución que permita registrar, identificar y caracterizar de mane
 
 ### 22.9 Continuidad hacia la clase del 01/10/2026
 
-Los hallazgos de la visita proporcionan el puente entre la fase de comprensión del problema y la fase de ideación. Con una definición más precisa de las brechas —recurrencia, trazabilidad, ocupación, reservas y analítica—, la clase siguiente se orientó a investigar soluciones existentes, definir atributos relevantes, comparar alternativas y generar propuestas conceptuales mediante Estado del Arte y Benchmark. Ver [sesión 01-10-2026](./2026-10-01-idear-conceptualizar.md).
+Los hallazgos de la visita proporcionan el puente entre la fase de comprensión del problema y la fase de ideación. Con una definición más precisa de las brechas —recurrencia, trazabilidad, ocupación, reservas y analítica—, la clase siguiente se orientó a investigar soluciones existentes, definir atributos relevantes, comparar alternativas y generar propuestas conceptuales mediante Estado del Arte y Benchmark. Ver [sesión 01-10-2026](./2026-10-01%20idear%20conceptualizar.md).
 
 ---
 [⬅ Volver al índice](../README.md)
