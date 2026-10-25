@@ -37,6 +37,25 @@ La consulta municipal realizada el 25/10/2026 permite delimitar el catálogo:
 
 La información publicada no sustituye la autorización para el piloto ni permite asumir un catálogo exhaustivo y vigente de cupos.
 
+## 1.3 Selección de la alternativa conceptual
+
+La sesión del 01/10 dejó seis alternativas conceptuales abiertas y señaló que la siguiente etapa debía definir requerimientos y comparar opciones antes de seleccionar una propuesta. Para mantener esa trazabilidad, el equipo revisó las alternativas usando criterios derivados del diagnóstico y del alcance del Capstone: **reutilización del perfil, trazabilidad de visitas, relación con recurso/horario, infraestructura adicional, operación por el personal y posibilidad de construir un prototipo acotado**.
+
+La comparación siguiente es **cualitativa** y corresponde a una decisión de diseño del equipo; no representa un ensayo de desempeño ni demuestra superioridad universal:
+
+| Alternativa conceptual | Fortalezas para el desafío | Limitación o condición identificada | Decisión para el prototipo |
+| --- | --- | --- | --- |
+| QR personal reutilizable | Reduce repetición de datos y facilita identificar una cuenta recurrente. | Identifica principalmente a la persona; por sí solo no vincula una visita con una reserva, recurso y horario específico. | Se conserva la reutilización del perfil mediante la cuenta, pero no el QR personal permanente. |
+| Kiosco de autoatención | Puede centralizar enrolamiento y registro en recepción. | Mantiene un punto físico de interacción y no resuelve por sí solo la relación entre reserva y asistencia. | No se adopta como modelo principal de recepción; se prioriza validación asistida por personal. |
+| Check-in apoyado por Wi-Fi | Puede aportar señales de presencia o recurrencia. | Requiere acceso e integración con infraestructura de red y no demuestra por sí solo asistencia a una reserva específica. | Se deja fuera del primer prototipo. |
+| Credencial NFC | Permite identificación rápida y reutilizable. | Requiere lectores y credenciales compatibles aún no confirmados. | Se descarta para el primer prototipo por infraestructura adicional. |
+| Sistema híbrido QR + ocupación | Podría combinar identificación con información de ocupación. | Aumenta alcance e infraestructura; el proyecto actual no medirá ocupación física en tiempo real. | Se reserva como posible evolución futura. |
+| Reserva + check-in integrado | Vincula intención de uso, recurso, horario y llegada efectiva; permite separar reserva de asistencia. | Requiere definir catálogo, reglas y operación con el Hub. | Se selecciona como base de **Hub Conecta**, complementada con cuenta persistente y panel administrativo. |
+
+**Resultado de la selección:** se adopta una propuesta basada en **cuenta persistente + reserva + QR único por reserva + validación de llegada por personal + panel y exportación**, porque mantiene la identificación recurrente sin repetir el perfil y, al mismo tiempo, mejora la trazabilidad entre persona, recurso, horario y asistencia. La selección queda sujeta a validación de reglas, catálogo y condiciones de operación con la contraparte.
+
+---
+
 ## 2 Descripción de la propuesta seleccionada
 
 ### 2.1 Nombre
