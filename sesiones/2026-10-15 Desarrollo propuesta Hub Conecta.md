@@ -289,9 +289,4 @@ Consulta oficial del 25/10/2026:
 
 Las reglas publicadas y disponibilidad deberán reconfirmarse antes de pilotear. El catálogo propuesto no constituye autorización de uso ni un sistema oficial de reservas actualmente operativo.
 
-
-## Continuidad del proyecto
-
-Esta actualización documenta los cambios comunicados por el equipo en esta fecha; no implica una sesión presencial ni pruebas ejecutadas. La [sesión del 15/10](./2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md) conserva el diseño histórico de QR personal y autoatención. La versión vigente utiliza cuenta por usuario, QR por reserva y validación por personal. El presupuesto y la evaluación se revisaron por el nuevo alcance; siguen siendo estimaciones pendientes de validación.
-
 [⬅ Volver al índice](../README.md)
