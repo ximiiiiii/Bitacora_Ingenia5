@@ -118,9 +118,9 @@ Ingenia 5 atenderá ajustes durante el curso. La continuidad exigirá un respons
 | --- | --- |
 | Reservas | Confirmadas para el período programado, separadas de pendientes y canceladas. |
 | Asistencias a reserva | Reservas con validación de llegada registrada. |
-| Tasa de asistencia | Reservas con asistencia / reservas confirmadas no canceladas cuyo horario ya terminó, por 100. Las reservas futuras se excluyen. |
+| Tasa de asistencia registrada | Reservas con asistencia dentro del conjunto de reservas confirmadas no canceladas cuyo horario ya terminó / total de reservas de ese mismo conjunto × 100. Se excluyen reservas futuras; si el denominador es cero, se informa no calculable. |
 | Visitas espontáneas | Atenciones sin reserva previa efectivamente registradas y admitidas. |
-| Usuarios únicos | Cuentas diferentes con al menos una asistencia o visita espontánea válida en el período. |
+| Cuentas únicas con asistencia registrada | Cuentas distintas con al menos una asistencia o visita espontánea válida en el período. Es una aproximación a usuarios únicos: una persona podría utilizar varias cuentas. |
 | Recurrencia | Cuentas con al menos dos visitas válidas; una misma validación no se cuenta dos veces. |
 | Demanda por recurso y horario | Reservas y asistencias desglosadas, sin confundir programación con ocupación medida. |
 
@@ -134,15 +134,23 @@ La exportación contendrá fecha de generación, filtros, identificadores intern
 
 | Componente | Función |
 | --- | --- |
-| Interfaz de usuario | Cuenta, inicio de sesión, disponibilidad, reservas y visualización del QR. |
-| Aplicación web en Python | Reglas de reserva, estados, autorización y validación. |
-| Base estructurada | Perfiles, recursos, bloques, reservas, asistencias y trazabilidad. SQLite se mantiene como opción inicial de prueba controlada. |
+| Interfaz de usuario | Cuenta, inicio de sesión, disponibilidad y administración de reservas; comprobante con QR único de cada reserva. |
+| Aplicación web en Python con FastAPI | Reglas de reserva, estados, autorización y validación. |
+| Base estructurada | SQLite con SQLAlchemy para relacionar perfiles, recursos, bloques, reservas, asistencias y trazabilidad en la prueba controlada. |
 | QR por reserva | Token aleatorio no predecible y revocable; no contiene datos personales legibles. |
-| Puesto del personal | Computador o dispositivo autorizado con cámara o lector compatible. |
+| Puesto del personal | Computador, tablet o teléfono celular compatible, con cámara integrada o externa para escanear los QR. No se requiere lector especializado; la compatibilidad se comprobará en las pruebas. |
 | Panel administrativo | Reservas, asistencia, filtros, configuración y descarga .xlsx. |
 | Respaldo y registro de acciones | Recuperación y revisión de incidencias. |
 
 Las cuentas y reservas remotas requieren una aplicación accesible por red. La arquitectura exclusivamente local del diseño anterior ya no basta para ofrecer reserva desde fuera del Hub. Se probará primero en un entorno controlado; el alojamiento, conexión segura y acceso público se definirán y autorizarán antes de una implementación real.
+
+### Decisiones técnicas del diseño previstas al 25/10/2026
+
+Se seleccionaron Python y FastAPI para el backend, HTML, CSS y JavaScript para una interfaz adaptable a distintos dispositivos, y SQLite con SQLAlchemy para el almacenamiento inicial. El personal leerá los QR mediante la cámara de computadores, tablets o celulares compatibles. Se incorporarán herramientas de generación y lectura de QR y exportación a Excel; su selección concreta y compatibilidad se comprobarán durante el desarrollo.
+
+Se prevén tres perfiles funcionales: usuario, recepción y administración. El usuario consultará sus propios datos, reservas y comprobantes; recepción validará asistencia y atenderá excepciones; administración configurará recursos, consultará indicadores y exportará registros según permisos. El QR pertenece a la reserva; no se incorpora una credencial QR personal reutilizable.
+
+La comunicación entre interfaz y backend se plantea mediante solicitudes HTTP, con protección HTTPS para el despliegue remoto. El acceso a la cámara requerirá permisos y un contexto de navegador compatible, que deberá probarse en cada equipo. Estas decisiones describen la implementación prevista; no se presentan como funcionalidades ya construidas o verificadas.
 
 ### 4.2 Relaciones y reglas de datos
 
@@ -162,7 +170,7 @@ La disponibilidad se comprueba nuevamente al guardar, dentro de una operación q
 
 ### 4.3 Requerimientos relevantes
 
-Se requieren energía, conectividad para acceso compartido, compatibilidad de lectura y sincronización horaria. Las pruebas comprobarán cuenta única por correo normalizado, autorización por rol, bloqueo de reservas propias de otros usuarios, prevención de sobrecupos, una sola asistencia por reserva y coincidencia entre panel y Excel.
+Se requieren energía, conectividad para acceso compartido, compatibilidad de lectura y sincronización horaria. Las pruebas comprobarán cuenta única por correo normalizado, autorización por rol, impedimento de acceso a reservas de otros usuarios, prevención de sobrecupos, una sola asistencia por reserva y coincidencia entre panel y Excel.
 
 La cancelación libera el cupo según reglas configuradas e invalida el QR. Tolerancias de llegada, anticipación y restricciones específicas no se inventarán: se configurarán según condiciones vigentes y acuerdos del Hub. Ante una regla no confirmada, el personal resolverá la excepción y dejará constancia.
 
@@ -178,7 +186,7 @@ No se desarrollarán pagos, biometría, torniquetes, sensores, seguimiento inter
 
 ### 5.3 Condiciones de prueba
 
-Primero se usarán datos ficticios y cuentas de prueba. Después se propone una evaluación con 10 a 15 participantes y un funcionario, si el Hub autoriza. Sin permiso se realizará simulación, identificándola como tal. Ninguna reserva del prototipo se presentará como reserva oficial del Hub sin acuerdo previo.
+Primero se usarán datos ficticios y cuentas de prueba. Después se propone una evaluación con 10 a 15 participantes y un funcionario, si el Hub autoriza. Las 20 operaciones de reserva y los 40 intentos normales de validación se identificarán como conjuntos de prueba separados, con reservas adicionales preparadas para las validaciones; los casos inválidos o repetidos se medirán aparte. Sin permiso se realizará simulación, identificándola como tal. Ninguna reserva del prototipo se presentará como reserva oficial del Hub sin acuerdo previo.
 
 ### 5.4 Resultados y criterios iniciales
 
@@ -190,8 +198,10 @@ Primero se usarán datos ficticios y cuentas de prueba. Después se propone una 
 | Errores controlados | Rechazar QR inválido o cancelado e impedir duplicación en todas las pruebas diseñadas. |
 | Visita espontánea | Admitir y registrar solo si reglas y disponibilidad lo permiten; probar también falta de cupo. |
 | Exportación | Coincidencia de registros, filtros y estados entre panel, base y .xlsx; sin credenciales ni tokens. |
-| Uso y tiempos | Registrar tiempos de reserva y validación por separado; facilidad media mínima propuesta de 4/5. |
+| Uso y tiempos | Registrar tiempos de reserva y validación por separado. La meta propuesta de 4/5 corresponde al promedio de la pregunta de facilidad general, no al promedio de claridad y confianza. |
 | Respaldo | Restauración comprobada con registros y relaciones correctos. |
+
+**Instrumento de facilidad general:** “En general, ¿qué tan fácil te resultó utilizar el sistema?”. Escala: 1 = muy difícil, 2 = difícil, 3 = ni fácil ni difícil, 4 = fácil y 5 = muy fácil. Se informará el promedio, la distribución y el número de respuestas. Las preguntas de claridad y confianza se analizarán por separado.
 
 Las cifras son metas, no resultados. Se registrarán intentos fallidos aunque después se corrijan. Los casos adversos se evaluarán por separado. Una mejora temporal solo se afirmará si existe comparación con el procedimiento vigente en condiciones comparables.
 
@@ -253,6 +263,8 @@ La participación del piloto será informada y voluntaria. Una muestra pequeña 
 ## 8 Riesgos supuestos y limitaciones
 
 ### 8.1 Supuestos
+
+El correo de acceso único no garantiza una persona única; alguien podría crear varias cuentas o compartir una. La identificación y recurrencia se interpretarán a nivel de cuenta y se declarará este límite.
 
 El Hub permitirá validar el catálogo y las condiciones; el personal podrá operar el lector; habrá conectividad o un entorno de prueba acordado; los participantes podrán crear una cuenta con asistencia cuando corresponda. Son condiciones por comprobar, no autorizaciones obtenidas.
 
