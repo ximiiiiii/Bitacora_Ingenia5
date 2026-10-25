@@ -36,6 +36,14 @@ La presentación de ocho diapositivas incluye:
 8. Conclusiones y próximos pasos.
 
 
+### Precisión metodológica posterior — 25/10/2026
+
+Al revisar nuevamente la matriz de atributos se precisó una conclusión de la exposición del 08/10. La comparación realizada no permite afirmar que ninguna solución existente cubra los atributos evaluados, ya que **OfficeRnD Flex presenta cobertura directa de los cinco atributos definidos en la matriz**. Por ello, la oportunidad del proyecto no se formula como ausencia de soluciones equivalentes, sino como la posibilidad de **adaptar e integrar funciones pertinentes al contexto, recursos y alcance del Hub Providencia**, manteniendo una propuesta realizable dentro del Capstone.
+
+Esta precisión no modifica la evidencia histórica de la presentación del 08/10; registra el aprendizaje y la corrección metodológica incorporados posteriormente por el equipo.
+
+---
+
 ### Cierre de la sesión 08/10/2026
 
 La jornada permitió consolidar y comunicar las cuatro actividades de la fase de ideación. El equipo pasó de revisar soluciones existentes a identificar atributos, evaluar brechas y proponer alternativas que respondan al desafío del Hub Providencia. Se mantiene la necesidad de evaluar técnicamente las propuestas antes de seleccionar e implementar una solución.
