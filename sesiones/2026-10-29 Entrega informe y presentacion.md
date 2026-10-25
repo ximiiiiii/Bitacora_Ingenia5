@@ -108,7 +108,7 @@ Se mantendrá trazabilidad entre requisitos, casos de prueba, resultados y ajust
 
 ### 8. Control de fecha y respaldo
 
-La actividad se registra para el **29/10/2026**, fecha indicada por el equipo para la entrega y presentación. La Clase 10 consignaba inicialmente el 27/10; esta entrada refleja la planificación actual comunicada por el equipo y no atribuye a la profesora una modificación que no está documentada aquí.
+La actividad se registra para el **29/10/2026**, fecha indicada por el equipo para la entrega y presentación.
 
 **Respaldo:** informe de avance adjuntado por el equipo; plantilla del curso; Clase 10; [propuesta vigente de Hub Conecta](./2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md), actualizada el 25/10; y [Estado del Arte y Benchmark](./2026-10-01%20idear%20conceptualizar.md).
 
