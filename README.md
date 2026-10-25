@@ -53,6 +53,7 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 | 08-10-2026 | [Presentación: Idear y conceptualizar](./sesiones/2026-10-08%20Presentacion%20idear%20y%20conceptualizar.md) | Preparación de PPT y exposición de las cuatro actividades, comparación de soluciones, hallazgos y seis propuestas conceptuales. |
 | 15-10-2026 | [Desarrollo de la propuesta Hub Conecta](./sesiones/2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md) | Desarrollo de Hub Conecta, actualizado el 25/10: cuentas, reservas con QR único, validación por personal, panel administrativo y exportación a Excel. |
 | 25-10-2026 | [Actualización del diseño en la entrada del 15/10](./sesiones/2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md) | Actualización documental de la sesión del 15/10; incluye decisiones técnicas y revisión del alcance, indicadores y costos. |
+| 29-10-2026 | [Entrega del informe de avance y presentación](./sesiones/2026-10-29%20Entrega%20informe%20y%20presentacion.md) | Actividad programada: informe redactado y revisado; entrega y exposición pendientes de confirmar. PowerPoint breve por preparar. |
 
 ---
 
@@ -60,11 +61,11 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 
 **Qué se propuso el equipo:** comprender y delimitar el desafío de caracterización de usuarios del Hub Providencia, evitando asumir que la solución ya estaba definida, y luego validar esa comprensión directamente en terreno.
 
-**Qué se hizo:** se constituyó formalmente Ingenia 5; se definieron normas, roles y compromisos; se analizó la ficha del desafío; se construyeron un mapa conceptual y un mapa de empatía; se separó evidencia de supuestos; se prepararon el Hito 1 y su pitch; se realizó una salida educacional a Hub Providencia con charla, preguntas dirigidas y recorrido; se desarrolló un Estado del Arte con Benchmark y una segunda lluvia de ideas; y se seleccionó y desarrolló la propuesta Hub Conecta, con su modelo de uso, diseño técnico y planificación del piloto.
+**Qué se hizo:** se constituyó formalmente Ingenia 5; se definieron normas, roles y compromisos; se analizó la ficha del desafío; se construyeron un mapa conceptual y un mapa de empatía; se separó evidencia de supuestos; se prepararon el Hito 1 y su pitch; se realizó una salida educacional a Hub Providencia con charla, preguntas dirigidas y recorrido; se desarrolló un Estado del Arte con Benchmark y una segunda lluvia de ideas; y se seleccionó y desarrolló la propuesta Hub Conecta, con su modelo de uso, diseño técnico y planificación del piloto. Se redactó y revisó el informe de avance que servirá de base para la presentación programada del 29/10.
 
 **Qué se aprendió o cambió:** el Hub ya cuenta con registros; la brecha de integración sigue orientando el proyecto. El 25/10 el equipo evolucionó de QR personal y autoatención a cuentas de usuario, reservas con QR específico y lectura por personal. Las reservas aparecen desde su creación y la asistencia se confirma por separado. El diseño contempla un panel con exportación a Excel; su implementación y pruebas siguen pendientes. El cowork general conserva su acceso sin reserva; otros recursos se habilitarán según respaldo oficial y confirmación del Hub. No se afirma que el Estado del Arte demuestre ausencia de soluciones equivalentes: la propuesta se justifica por su adaptación y alcance de prototipo.
 
-**Qué debe hacerse después:** validar catálogo, reglas y requisitos con el Hub; construir cuentas, disponibilidad, reservas, validación y Excel; ejecutar pruebas y ajustar costos. Preparar pitch e informe de avance para el 27/10 según Clase 10, mostrando solo funciones efectivamente desarrolladas. La autorización del piloto y las condiciones de implementación permanecen pendientes; no hay resultados de pruebas en terreno confirmados.
+**Qué debe hacerse después:** validar catálogo, reglas y requisitos con el Hub; construir cuentas, disponibilidad, reservas, validación y Excel; ejecutar pruebas y ajustar costos. Preparar el PowerPoint breve para la entrega y presentación programadas el 29/10, según la planificación actual del equipo, mostrando solo funciones efectivamente desarrolladas. La Clase 10 consignaba inicialmente el 27/10; la entrada del 29/10 deja constancia de la diferencia de fechas. La autorización del piloto y las condiciones de implementación permanecen pendientes; no hay resultados de pruebas en terreno confirmados.
 
 ---
 
@@ -85,6 +86,11 @@ Diseñar y desarrollar durante el semestre una propuesta funcional que permita r
 - [x] Selección y desarrollo de la propuesta Hub Conecta (15/10)
 - [x] Requerimientos preliminares y planificación de evaluación
 - [x] Actualización de propuesta a cuentas, reservas, asistencia y Excel (25/10)
+- [x] Redacción y revisión del informe de avance
+- [x] Registro de planificación de entrega y presentación del 29/10
+- [ ] Elaboración e incorporación del PowerPoint breve
+- [ ] Confirmación de entrega y exposición del 29/10
+- [ ] Registro de retroalimentación docente
 - [ ] Validación y priorización de requerimientos con el Hub
 - [ ] Construcción y pruebas del prototipo
 - [ ] Autorización y coordinación de piloto en terreno
