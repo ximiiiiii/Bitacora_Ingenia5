@@ -116,5 +116,7 @@ Las seis propuestas permanecen como alternativas conceptuales. El siguiente paso
 
 La clase permitió avanzar desde la evidencia de terreno hacia la exploración estructurada de alternativas. El equipo no selecciona todavía una solución definitiva: mantiene las propuestas como conceptos y deja como siguiente paso la definición y priorización de requerimientos, seguida de una comparación objetiva antes del prototipado. Se conserva así la trazabilidad metodológica del proyecto: **comprender → validar → investigar referentes → comparar → idear → priorizar.**
 
+**Continuidad:** la comparación y selección posterior de la alternativa que da origen a Hub Conecta se encuentra documentada en [Desarrollo de la propuesta — 15/10, actualizada el 25/10](./2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md).
+
 ---
 [⬅ Volver al índice](../README.md)
