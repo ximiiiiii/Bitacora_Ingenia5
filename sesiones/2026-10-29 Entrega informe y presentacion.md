@@ -82,8 +82,6 @@ Esta distribución corresponde al guion preparado; no acredita todavía la parti
 
 #### Presentación preparada en PDF
 
-[📄 Ver la presentación de Hub Conecta en GitHub](./Presentacion_Hub_Conecta_2026-10-29.pdf)
-
 El PDF contiene nueve diapositivas y se publica en una copia optimizada para facilitar su visualización. Se distinguen las metas pendientes de prueba de los resultados obtenidos, así como el trabajo valorizado de los desembolsos estimados.
 
 **Estado:** material visual y guion preparados. Entrega, exposición y retroalimentación docente pendientes de confirmación.
