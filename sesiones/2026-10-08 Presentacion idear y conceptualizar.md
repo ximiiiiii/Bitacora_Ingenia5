@@ -42,6 +42,8 @@ Al revisar nuevamente la matriz de atributos se precisó una conclusión de la e
 
 Esta precisión no modifica la evidencia histórica de la presentación del 08/10; registra el aprendizaje y la corrección metodológica incorporados posteriormente por el equipo.
 
+La matriz corregida se conserva en la [sesión del 01/10](./2026-10-01%20idear%20conceptualizar.md) y la selección posterior se documenta en [Hub Conecta — 15/10, actualizada el 25/10](./2026-10-15%20Desarrollo%20propuesta%20Hub%20Conecta.md).
+
 ---
 
 ### Cierre de la sesión 08/10/2026
